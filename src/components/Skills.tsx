@@ -32,7 +32,7 @@ const SKILL_ICONS: Record<string, SkillIcon[]> = {
   "Redux Toolkit": [{ Icon: SiRedux, color: "#764ABC" }],
   "Tailwind CSS": [{ Icon: SiTailwindcss, color: "#06B6D4" }],
   "Material UI": [{ Icon: SiMui, color: "#007FFF" }],
-  "Shadcn UI": [{ Icon: SiShadcnui, color: "#000000" }],
+  "Shadcn UI": [{ Icon: SiShadcnui, color: "" }],
   HTML5: [{ Icon: SiHtml5, color: "#E34F26" }],
   "Node.js": [{ Icon: SiNodedotjs, color: "#339933" }],
   MongoDB: [{ Icon: SiMongodb, color: "#47A248" }],
